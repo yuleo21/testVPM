@@ -1,0 +1,16 @@
+{
+    "name" : "com.github.yuleo21.testVPM",
+    "displayName" : "testVPM",
+    "version" : "1.0.0",
+    "author": {
+      "name": "yuleo21"
+    },
+    "unity" : "2022.3",
+    "description" : "This is VPM test by yuleo21. Do not download this.",
+    "vpmDependencies" : {
+      "com.vrchat.avatars" : ">=3.7.0"
+    },
+    "legacyFolders" : {
+      "": ""
+    }
+}
